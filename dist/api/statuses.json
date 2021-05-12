@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "label": "Draft",
+    "color": "c05817"
+  },
+  {
+    "id": 1,
+    "label": "Needs prep.",
+    "color": "ffc58b"
+  },
+  {
+    "id": 2,
+    "label": "Needs estimation",
+    "color": "cbf0f0"
+  },
+  {
+    "id": 3,
+    "label": "Planned",
+    "color": "e2e6ed"
+  },
+  {
+    "id": 4,
+    "label": "Waiting",
+    "color": "47c1bf"
+  },
+  {
+    "id": 5,
+    "label": "In progress",
+    "color": "51b83c"
+  },
+  {
+    "id": 6,
+    "label": "Needs testing",
+    "color": "fad200"
+  },
+  {
+    "id": 7,
+    "label": "Testing",
+    "color": "ffe88a"
+  },
+  {
+    "id": 8,
+    "label": "Needs review",
+    "color": "5d6ac4"
+  },
+  {
+    "id": 9,
+    "label": "Needs attention",
+    "color": "de1919"
+  },
+  {
+    "id": 10,
+    "label": "Completed",
+    "color": "145b39"
+  }
+]

@@ -1,0 +1,28 @@
+body {
+    background-color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+}
+
+#app {
+    font-family: 'Inter', sans-serif;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("../fonts/inter/Inter-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: "Inter";
+    src: url("../fonts/inter/Inter-Italic.otf") format("opentype");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Inter";
+    src: url("../fonts/inter/Inter-Bold.otf") format("opentype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Inter";
+    src: url("../fonts/inter/Inter-Light.otf") format("opentype");
+    font-weight: lighter;
+}

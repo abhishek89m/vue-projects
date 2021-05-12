@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1284,
+    "label": "Brilliant project",
+    "statusId": 0
+  },
+  {
+    "id": 2739,
+    "label": "Scoro app project",
+    "statusId": 1
+  },
+  {
+    "id": 32945,
+    "label": "Summer days plan",
+    "statusId": 2
+  },
+  {
+    "id": 7654,
+    "label": "Tallinn sites to explore",
+    "statusId": 3
+  }
+]
