@@ -1,4 +1,8 @@
-# hardvare
+# Project status management
+
+## Preview
+![project-statuses](https://user-images.githubusercontent.com/5283961/117980744-e6c00980-b351-11eb-99a4-f219284531f2.gif)
+
 
 ## Project setup
 ```
